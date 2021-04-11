@@ -7,7 +7,7 @@
     "build": "webpack --mode production",
     "eslint": "eslint --ext .jsx --ext .js src/",
     "start": "webpack serve",
-    "test": "npm run eslint && jest"
+    "test": "npm run eslint"
   },
   "engines": {
     "node": "10"
